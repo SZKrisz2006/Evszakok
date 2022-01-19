@@ -24,7 +24,7 @@ body {
 .box1:hover {
     transform: scale(1.2);
     background-color: black;
-    color: white;
+    color: black;
 }
 
 .box2 {
@@ -41,7 +41,7 @@ body {
 .box2:hover {
     transform: scale(1.2);
     background-color: black;
-    color: white;
+    color: black;
 }
 
 
